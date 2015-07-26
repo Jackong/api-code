@@ -1,0 +1,24 @@
+{
+  "name": "api-code",
+  "version": "1.0.0",
+  "description": "Define code like HTTP status for API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jackong/api-code.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "code"
+  ],
+  "author": "jackong <jackongc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jackong/api-code/issues"
+  },
+  "homepage": "https://github.com/Jackong/api-code"
+}
